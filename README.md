@@ -2,6 +2,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:000000&height=250&text=SERGIO%20SANTIAGO%20RIOJA%20COCA&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=35&desc=good%20kid%2C%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=55&descSize=18)
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVpY3IxMnEzNmJjZDcxbXR5ajc4ZGdycTAzMGJ1MDZqMjJuMzJldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KKfY6JUUXyolEqliWM/giphy.gif" width="200"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=a+short+film+by+Sergio+Rioja+Coca;Ingenier%C3%ADa+en+Sistemas;good+kid%2C+m.A.A.d+city" alt="Typing SVG" />
 
 </div>
