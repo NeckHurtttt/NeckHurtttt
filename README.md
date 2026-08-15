@@ -6,7 +6,7 @@
 
 <br>
 
-**a short film by Sergio Rioja Coca**
+**by Sergio Rioja Coca**
 
 </div>
 
