@@ -1,9 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:000000&height=220&text=SERGIO%20SANTIAGO%20RIOJA%20COCA&fontColor=ffffff&fontSize=32&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:000000&height=250&text=SERGIO%20SANTIAGO%20RIOJA%20COCA&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=35&desc=good%20kid%2C%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=55&descSize=18)
 
-### 🎬 *"a short film by Sergio Santiago Rioja Coca"*
-#### *good kid, m.A.A.d Ingeniería en Sistemas*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=a+short+film+by+Sergio+Rioja+Coca;Ingenier%C3%ADa+en+Sistemas;good+kid%2C+m.A.A.d+city" alt="Typing SVG" />
 
 </div>
 
@@ -12,8 +11,7 @@
 ### 📼 Sinopsis
 
 - 🎓 Estudiante de **Ingeniería en Sistemas**
-- 🖥️ Compton no, pero el código también tiene sus calles: bugs, deadlines y commits a las 3 AM
-- 🎮 Modo friki activado: código, anime, videojuegos y buena música
+- 🖥️ El código también tiene sus calles: bugs, deadlines y commits a las 3 AM
 - 📫 Contacto: s.rioja2345@gmail.com
 
 ---
@@ -31,8 +29,6 @@
 <div align="center">
 
 ### 🎧 *"Be humble... but push tu último commit"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neckhurtttt&color=8B0000&style=for-the-badge&label=VISITAS)
 
 </div>
 
