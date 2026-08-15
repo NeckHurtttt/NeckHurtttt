@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:000000&height=230&text=SERGIO%20SANTIAGO%20RIOJA%20COCA&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=38&desc=%C%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=58&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8B0000,100:000000&height=230&text=SERGIO%20SANTIAGO%20RIOJA%20COCA&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=38&desc=%%0Ingenier%C3%ADa%20en%20Sistemas&descAlignY=58&descSize=16)
 
 <img src="assets/rocket.gif" width="90"/>
 
