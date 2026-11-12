@@ -27,7 +27,7 @@ De día, la U. De noche, Night City... digo, la terminal.<br/>
 <a href="https://github.com/NeckHurtttt/tema-switcher"><img src="assets/quest-vibe.svg?v=cy2" width="49%" alt="Misión 03: tema-switcher"/></a> <a href="https://github.com/NeckHurtttt/ESTRUCTURA-DE-DATOS-1"><img src="assets/quest-pointers.svg?v=cy2" width="49%" alt="Misión 04: estructuras de datos en C++"/></a>
 <a href="https://neckhurtttt.github.io/Ninawi/"><img src="assets/quest-ninawi.svg?v=cy2" width="49%" alt="Misión 05: NINAWI, aviso del fuego"/></a> <a href="https://neckhurtttt.github.io/Surco/"><img src="assets/quest-surco.svg?v=cy4" width="49%" alt="Misión 06: Surco, rotación de cultivos con datos de la NASA"/></a>
 <a href="https://neckhurtttt.github.io/nodos/"><img src="assets/quest-nodos.svg?v=cy5" width="49%" alt="Misión 07: NODOS, estructuras de datos animadas"/></a> <a href="https://neckhurtttt.github.io/cuota/"><img src="assets/quest-cuota.svg?v=cy5" width="49%" alt="Misión 08: Cuota, préstamos y ahorro"/></a>
-<a href="https://neckhurtttt.github.io/deriva/"><img src="assets/quest-deriva.svg?v=cy5" width="49%" alt="Misión 09: Deriva, cuándo fumigar"/></a> <img src="assets/quest-secreta.svg?v=cy5" width="49%" alt="Misión 10: bloqueada"/>
+<a href="https://neckhurtttt.github.io/deriva/"><img src="assets/quest-deriva.svg?v=cy5" width="49%" alt="Misión 09: Deriva, cuándo fumigar"/></a> <a href="https://github.com/NeckHurtttt/biblioteca-api"><img src="assets/quest-biblioteca.svg?v=cy6" width="49%" alt="Misión 10: Biblioteca API en Spring Boot"/></a>
 
 <br/>
 
