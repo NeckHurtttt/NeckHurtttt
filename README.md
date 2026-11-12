@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/NeckHurtttt?tab=repositories"><img src="assets/hero.svg?v=cy2" width="100%" alt="NeckHurtttt, clase Netrunner nivel 19. Press start."/></a>
+<a href="https://github.com/NeckHurtttt?tab=repositories"><img src="assets/hero.svg?v=cy3" width="100%" alt="NeckHurtttt. Access granted."/></a>
 
 <sub><code>« enciende la terminal, conecta los implantes y empieza la partida. »</code></sub>
 
