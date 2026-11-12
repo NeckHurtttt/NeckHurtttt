@@ -28,8 +28,7 @@ De día, la U. De noche, Night City... digo, la terminal.<br/>
 
 <br/>
 
-<img src="assets/combat.svg?v=cy2" width="99%" alt="Registro de combate"/>
-<picture><img src="https://raw.githubusercontent.com/NeckHurtttt/NeckHurtttt/output/snake.svg" width="99%" alt="Serpiente neón comiéndose las contribuciones"/></picture>
+<img src="https://raw.githubusercontent.com/NeckHurtttt/NeckHurtttt/output/city.svg" width="99%" alt="Neon City: cada edificio es una semana de contribuciones"/>
 
 <br/>
 
