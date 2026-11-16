@@ -33,6 +33,7 @@ De día, la U. De noche, Night City... digo, la terminal.<br/>
 <a href="https://neckhurtttt.github.io/BsCambio/"><img src="assets/quest-bscambio.svg?v=cy8" width="49%" alt="Misión 15: BsCambio, el dólar en Bolivia en vivo"/></a> <a href="https://github.com/NeckHurtttt/NeonRogue"><img src="assets/quest-neonrogue.svg?v=cy8" width="49%" alt="Misión 16: NeonRogue, roguelike para la terminal"/></a>
 <a href="https://neckhurtttt.github.io/NotaUPSA/"><img src="assets/quest-notaupsa.svg?v=cy8" width="49%" alt="Misión 17: NotaUPSA, calculadora de notas"/></a> <a href="https://neckhurtttt.github.io/Alfil/"><img src="assets/quest-alfil.svg?v=cy8" width="49%" alt="Misión 18: Alfil, motor de ajedrez en WebAssembly"/></a>
 <a href="https://neckhurtttt.github.io/PixelSynth/"><img src="assets/quest-pixelsynth.svg?v=cy8" width="49%" alt="Misión 19: PixelSynth, chiptune en el navegador"/></a> <a href="https://neckhurtttt.github.io/BoliviaEnDatos/"><img src="assets/quest-boliviaendatos.svg?v=cy8" width="49%" alt="Misión 20: Bolivia en Datos"/></a>
+<a href="https://neckhurtttt.github.io/ciudad-viva/"><img src="assets/quest-ciudadviva.svg?v=cy9" width="49%" alt="Misión 21: Ciudad Viva, Santa Cruz en 3D con tráfico, rutas, aire y fuego"/></a>
 
 <br/>
 
